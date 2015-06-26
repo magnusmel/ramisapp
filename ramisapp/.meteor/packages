@@ -7,3 +7,15 @@
 meteor-platform
 autopublish
 insecure
+standard-app-packages
+less
+email
+spiderable
+iron:router
+natestrauser:font-awesome
+matb33:collection-hooks
+copleykj:livestamp
+reactive-dict
+mizzao:bootboxjs
+mrt:moment
+rajit:bootstrap3-datepicker
